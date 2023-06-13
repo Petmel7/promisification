@@ -1,3 +1,5 @@
+//! Перше завдання
+
 // const delay = ms => {
 //     return new Promise(resolve => {
 //     setTimeout(() => {
@@ -13,6 +15,8 @@
 // delay(1500).then(logger);
 
 
+
+//! Друге Завдання
 
 // const users = [
 //   { name: 'Mango', active: true },
@@ -37,6 +41,8 @@
 // toggleUserState(users, 'Lux').then(logger);
 
 
+
+//! Третє завдання
 
 const randomIntegerFromInterval = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
